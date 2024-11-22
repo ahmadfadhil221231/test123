@@ -13,7 +13,7 @@
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="https://google.com/" />
+  <meta name="og:url" content="https://dpm.fkunud.com/" />
   <meta name="og:title" content="SLOT DANA | Daftar Link Penyedia Slot Gacor Thailand Malam ini Jackpot Maxwin" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="SLOT DANA adalah salah satu termasuk daftar penyedia platform slot gacor online dengan menggunakan server pusat SLOT DANA, yang bisa di mainkan sangat mudah malam ini dijamin jackpot maxwin!" />
